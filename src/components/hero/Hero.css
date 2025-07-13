@@ -1,0 +1,38 @@
+.section {
+    background-image: url(../../assets/bgimage.svg);
+    height: 91.8vh;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nature__card{
+    width: 730px;
+    height: 349px;
+    background-color: #f7f8fae1;
+    padding: 85px 94px;
+}
+.nature__card h1{
+    text-align: center;
+}
+.nature__card h2{
+    font-size: 40px;
+    text-align: center;
+}
+.nature__card p{
+    text-align: center;
+    font-size: 18px;
+}
+.nature__card button{
+    padding: 8px 44px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 20px;
+    background-color: #56B280;
+    border: 1px solid #56B280;
+    color: white;
+    border-radius: 3px;
+}
