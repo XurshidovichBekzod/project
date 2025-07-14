@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './components/header/Header'
-import Hero from './components/hero/hero'
+import Hero from './components/hero/hero.jsx'
 import Products from './components/products/Products'
 
 const App = () => {
