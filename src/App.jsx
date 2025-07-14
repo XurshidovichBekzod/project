@@ -1,7 +1,8 @@
 import React from 'react'
 import Header from './components/header/Header'
-import Hero from './components/hero/hero.jsx'
+import Hero from './components/hero/Hero'
 import Products from './components/products/Products'
+
 
 const App = () => {
   return (
