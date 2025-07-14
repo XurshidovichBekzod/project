@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Hero.css"
+import "./Tree.css"
 
-const Hero = () => {
+const Tree = () => {
     return (
         <section className='section'>
             <div className='nature__card'>
@@ -14,4 +14,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Tree
