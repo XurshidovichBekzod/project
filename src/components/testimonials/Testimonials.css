@@ -1,0 +1,41 @@
+.backround{
+    background-color: #EFF8F3;
+    width: 100%;
+    height: 85vh;
+    padding-top: 1px;
+}
+.card{
+    width: 350px;
+    height: 322px;
+    padding-top: 33px;
+    border-radius: 10px;
+    background-color: white;
+}
+.first{
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    display: flex;
+}
+.second{
+    width: 160px;
+    height: 40px;
+    margin: 0 auto;
+    display: flex;
+}
+.card h1{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 22px;
+    margin-bottom: 10px;
+}
+.card p{
+    color: #7C8087;
+    font-size: 18px;
+    text-align: center;
+}
+.cardFlex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

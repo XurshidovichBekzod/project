@@ -3,6 +3,7 @@ import Header from './components/header/Header'
 import Products from './components/products/Products'
 import Tree from './components/tree/Tree'
 import Clean from './components/clean/Clean'
+import Testimonials from './components/testimonials/Testimonials'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Tree />
       <Products />
       <Clean/>
+      <Testimonials/>
     </>
   )
 }
