@@ -1,0 +1,40 @@
+.conteainerTwo{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.cleanContext h1{
+    font-size: 40px;
+    color: #1D252C;
+    margin-bottom: 15px;
+}
+.cleanContext h3{
+    color: #56B280;
+    margin-bottom: 40px;
+}
+.iconFlex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 40px;
+    padding: 10px 50px;
+    margin-bottom: 40px;
+    background-color: #56B280;
+    color: white;
+    border: 1px solid #56B280;
+    border-radius: 3px;
+}
+
+.cleanFlex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.imgClean{
+    width: 600px;
+}
